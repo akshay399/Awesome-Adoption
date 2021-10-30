@@ -60,7 +60,6 @@ export default function Home() {
         </Button>
       </div>
       <hr />
-      {/* ------------------------------------------------- */}
       <div className="resources__container">
         <h1>
           <u>Covid-19</u>
